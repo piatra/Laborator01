@@ -48,6 +48,6 @@
         android:gravity="center"
         android:layout_gravity="center"
         android:alpha="0"
-        android:text="@string/gretting_text_view_content" />
+        android:text="@string/greeting_text_view_content" />
 
 </LinearLayout>
